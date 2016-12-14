@@ -1,0 +1,3 @@
+goog.provide('i18n.phonenumbers.metadata');
+i18n.phonenumbers.metadata.countryCodeToRegionCodeMap = {"357":["CY"]};
+i18n.phonenumbers.metadata.countryToMetadata = {"CY":[null,[null,null,"[257-9]\\d{7}",null,null,null,null,null,null,[8]],[null,null,"2[2-6]\\d{6}"],[null,null,"9[4-79]\\d{6}"],[null,null,"800\\d{5}"],[null,null,"90[09]\\d{5}"],[null,null,"80[1-9]\\d{5}"],[null,null,"700\\d{5}"],[null,null,"NA",null,null,null,null,null,null,[-1]],"CY",357,"00",null,null,null,null,null,null,null,[[null,"(\\d{2})(\\d{6})","$1 $2"]],null,[null,null,"NA",null,null,null,null,null,null,[-1]],null,null,[null,null,"NA",null,null,null,null,null,null,[-1]],[null,null,"(?:50|77)\\d{6}"],null,null,[null,null,"NA",null,null,null,null,null,null,[-1]]]}
